@@ -1,1 +1,1 @@
-'Hell team integration family'
+echo "Hell team integration family";
